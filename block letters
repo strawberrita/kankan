@@ -1,0 +1,32 @@
+#kanz
+#(≧◡≦)
+       #1 2 3 4 5 
+print( "k       k")
+print( "k     k")
+print( "k   k")
+print( "k k")
+print( "k   k")
+print ("k     k")
+print("k        k")
+
+print( "  A")
+print(" A   A")
+print("A     A ")
+print("A A A  A")
+print("A      A")
+print("A       A")
+print("A       A")
+
+#1 2 3 4 5
+name = """
+N         N
+N  N      N 
+N     N   N
+N         N
+N         N
+N         N
+N         N 
+"""
+print(name)
+print(" ^_______^")
+print("*_____*")
